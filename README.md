@@ -1,1 +1,1 @@
-# -infa_2020_melnikov
+# infa_2020_melnikov
